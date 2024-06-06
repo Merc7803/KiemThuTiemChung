@@ -26,6 +26,4 @@ Test Report:
 Chức năng:
 ![alt text](image-1.png)
 
-Lỗi:
-![alt text](image-2.png)
 
